@@ -7,25 +7,6 @@ com o curso técnico em marketing
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo Embarque Digital, no Senac. 
 Tenho uma paixão por tecnologia desde pequena, então comecei a direcionar meus estudos para a área de dados. Você pode dar uma olhadinha nos meus projetos
 no "[linkedin](https://www.linkedin.com/in/sophia-alencar-305311271/) também!
-
-
-<p align="left">
-    <a href="https://github.com/SophiaAlencar?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SophiaAlencar?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias

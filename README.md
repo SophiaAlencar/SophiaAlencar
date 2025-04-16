@@ -6,7 +6,7 @@ Olá! Me chamo Sophia, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
 com o curso técnico em marketing
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo Embarque Digital, no Senac. 
 Tenho uma paixão por tecnologia desde pequena, então comecei a direcionar meus estudos para a área de dados. Você pode dar uma olhadinha nos meus projetos
-no "[linkedin](https://www.linkedin.com/in/sophia-alencar-305311271/) também!
+no [linkedin](https://www.linkedin.com/in/sophia-alencar-305311271/) também!
 ---
 
 ### 🤖 Linguagens e Tecnologias

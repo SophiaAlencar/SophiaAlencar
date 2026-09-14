@@ -1,13 +1,16 @@
-# 👩‍💻🎲 Sophia Alencar
+<div align="center">
+Olá, me chamo Sophia! 👩‍💻🎲
+DBA Júnior 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=msophiaalencar&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+</p>
+</div>
 
-
-
-Olá! Me chamo Sophia, tenho 21 anos e sou natural de Pernambuco.  
+Tenho 21 anos e sou natural de Pernambuco.  
 Atualmente, sou formada em Análise e Desenvolvimento de Sistemas e estou cursando uma segunda graduação em Engenharia de Software. 
 Tenho uma paixão por tecnologia desde pequena, então comecei a direcionar meus estudos para a área de dados (apesar do interesse pelas várias áreas da tecnologia). Você pode dar uma olhadinha nos meus projetos
 no [linkedin](https://www.linkedin.com/in/sophia-alencar-305311271/) também!
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />

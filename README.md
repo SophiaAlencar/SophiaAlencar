@@ -18,6 +18,4 @@ no [linkedin](https://www.linkedin.com/in/sophia-alencar-305311271/) também!
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Pentaho" title="Pentaho" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pentaho/pentaho-original.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
 <br/> <br/>
